@@ -1,0 +1,55 @@
+.primary-navigation{
+    display: block;
+    margin: 0 auto;
+    display: block;
+    padding: 120px 0 0 0;
+    text-align: center;
+    font-size: 16px;
+}
+
+.primary-navigation ul li{
+    list-style: none;
+    margin: 0 auto;
+    border: 2px solid skyblue;
+    display: inline-block;
+    padding: 0 30px;
+    position: relative;
+
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.primary-navigation li a:hover {
+    color: skyblue;
+}
+
+.primary-navigation li:hover {
+    cursor: pointer;
+}
+
+.primary-navigation li a:hover {
+    color: skyblue;
+}
+
+.primary-navigation ul li ul{
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    padding-left: 0;
+    left: 0;
+    display: none;
+    background-color: white;
+}
+
+.primary-navigation
+
+
+
+
+
+
+
+
+
+text-align:left;
